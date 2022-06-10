@@ -1,2 +1,1 @@
-# psteleco
-Programación para Sistema de Telecomunicación
+# Programación para Sistema de Telecomunicación
